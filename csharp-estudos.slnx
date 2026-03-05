@@ -1,5 +1,11 @@
 <Solution>
   <Folder Name="/Semana 1/">
+    <Project Path="Semana 1/Conversao/Conversao.csproj" Id="5730b5c1-949f-4ded-b9f7-44ce0f0639d9" />
+    <Project Path="Semana 1/EntradaSaida/EntradaSaida.csproj" Id="1544e09c-4e1c-43b8-af97-d53120902e19" />
+    <Project Path="Semana 1/Estudos de dados/Estudos de dados.csproj" Id="035082b8-dfba-4080-9c0a-e990e187fbc6" />
+    <Project Path="Semana 1/Exercicio Conversor/Exercicio Conversor.csproj" Id="82281fe1-5ad2-4ba2-bdc1-fed5eb9a71cb" />
+    <Project Path="Semana 1/FormsAppNetFramework/FormsAppNetFramework.csproj" Id="a6aa204c-4025-4be3-b753-3272a785e88a" />
+    <Project Path="Semana 1/Operadores/Operadores.csproj" Id="73e0b47b-54bf-4917-bf73-d96d8b7c7cae" />
     <Project Path="Semana 1/ProjetoHelloWorld/ProjetoHelloWorld/ProjetoHelloWorld.csproj" Id="6f3ad055-c31f-485e-9a5a-43edd60453a7" />
     <Project Path="Semana 1/Variaveis/Variaveis.csproj" Id="616975f4-d47f-4892-b53d-2c58a5d805f0" />
   </Folder>
