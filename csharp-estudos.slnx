@@ -9,5 +9,8 @@
     <Project Path="Semana 1/ProjetoHelloWorld/ProjetoHelloWorld/ProjetoHelloWorld.csproj" Id="6f3ad055-c31f-485e-9a5a-43edd60453a7" />
     <Project Path="Semana 1/Variaveis/Variaveis.csproj" Id="616975f4-d47f-4892-b53d-2c58a5d805f0" />
   </Folder>
-  <Project Path="csharp-estudos/csharp-estudos.csproj" Id="3dbbc87a-0fd0-4c07-be4f-0241d0eae55d" />
+  <Folder Name="/Semana 2/">
+    <Project Path="Semana 2/Matriz Array bidimensional/Matriz Array bidimensional.csproj" Id="ed544862-0667-4105-89e9-5a02687d2e6b" />
+    <Project Path="Semana 2/Vetor Array unidimensional/Vetor Array unidimensional.csproj" Id="b50ad3d4-3c8b-46ee-a73a-2680e3626146" />
+  </Folder>
 </Solution>
