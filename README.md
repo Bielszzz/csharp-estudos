@@ -17,4 +17,17 @@ Atualmente estou estudando a linguagem com foco em **fundamentos de programaçã
 
 ## 🗂 Estrutura do repositório
 
-Cada pasta representa uma semana ou tópico de estudo.
+Cada pasta representa uma semana de estudo.
+
+---
+
+## 📖 Roadmap de Estudos - C#
+
+### 🟢 Fundamentos
+- [x] Variáveis
+- [x] Tipos e conversão de dados
+- [x] Operadores
+
+### 🟡 Intermediário
+- [x] Arrays
+- [x] Matrizes
