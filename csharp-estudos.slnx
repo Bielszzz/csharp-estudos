@@ -10,6 +10,10 @@
     <Project Path="Semana 1/Variaveis/Variaveis.csproj" Id="616975f4-d47f-4892-b53d-2c58a5d805f0" />
   </Folder>
   <Folder Name="/Semana 2/">
+    <Project Path="Semana 2/Calculadora/Calculadora.csproj" Id="010a779c-7054-4342-9fd0-c75875918d1f" />
+    <Project Path="Semana 2/Controle Switch Case/Controle Switch Case.csproj" Id="6ce4160c-69ce-4dc4-ae61-48eaaf43e41a" />
+    <Project Path="Semana 2/Estruturas_Condicionais/Estruturas_Condicionais.csproj" Id="d7a7a446-e89f-4b5e-a33c-27063b0e6664" />
+    <Project Path="Semana 2/Ex Calcular IMC/Ex Calcular IMC.csproj" Id="42e583c5-6d08-4fef-b63e-2c8d48ad0510" />
     <Project Path="Semana 2/Matriz Array bidimensional/Matriz Array bidimensional.csproj" Id="ed544862-0667-4105-89e9-5a02687d2e6b" />
     <Project Path="Semana 2/Vetor Array unidimensional/Vetor Array unidimensional.csproj" Id="b50ad3d4-3c8b-46ee-a73a-2680e3626146" />
   </Folder>
