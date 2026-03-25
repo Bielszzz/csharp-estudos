@@ -24,10 +24,11 @@ Cada pasta representa uma semana de estudo.
 ## 📖 Roadmap de Estudos - C#
 
 ### 🟢 Fundamentos
-- [x] Variáveis
-- [x] Tipos e conversão de dados
-- [x] Operadores
+- ✅ Variáveis
+- ✅ Tipos e conversão de dados
+- ✅ Operadores
+- ✅ Condicionais 
 
 ### 🟡 Intermediário
-- [x] Arrays
-- [x] Matrizes
+- ✅ Arrays
+- ✅ Matrizes
