@@ -23,12 +23,16 @@ Cada pasta representa uma semana de estudo.
 
 ## 📖 Roadmap de Estudos - C#
 
+✅Finalizado | 🔃Estudando
+
 ### 🟢 Fundamentos
 - ✅ Variáveis
 - ✅ Tipos e conversão de dados
 - ✅ Operadores
 - ✅ Condicionais 
+- ✅ Ciclos
 
 ### 🟡 Intermediário
 - ✅ Arrays
 - ✅ Matrizes
+- 🔃 POO
