@@ -21,6 +21,9 @@
   </Folder>
   <Folder Name="/Semana 3/">
     <Project Path="Semana 3/ClassesObjetos/ClassesObjetos.csproj" Id="c53c8127-c75d-4319-9be9-0cb181e88e96" />
+    <Project Path="Semana 3/MetodoConstrutor/MetodoConstrutor.csproj" Id="6386519a-c651-4db7-beb7-a60cc481aadd" />
     <Project Path="Semana 3/MetodosDasClasses/MetodosDasClasses.csproj" Id="a516ae4e-9057-43a2-aa10-d4ce22d0dee2" />
+    <Project Path="Semana 3/TermoThis/TermoThis.csproj" Id="1d7eb6c5-0265-4895-be5e-a188a35faf1d" />
+    <Project Path="Semana 3/TipoDelegate/TipoDelegate.csproj" Id="1776c003-6bc3-4a95-959c-c77525ebe1bd" />
   </Folder>
 </Solution>
