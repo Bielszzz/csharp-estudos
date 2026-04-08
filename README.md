@@ -17,7 +17,7 @@ Atualmente estou estudando a linguagem com foco em **fundamentos de programaçã
 
 ## 🗂 Estrutura do repositório
 
-Cada pasta representa uma semana de estudo.
+Cada pasta representa uma semana ou tema de estudo.
 
 ---
 
@@ -31,8 +31,9 @@ Cada pasta representa uma semana de estudo.
 - ✅ Operadores
 - ✅ Condicionais 
 - ✅ Ciclos
-
-### 🟡 Intermediário
 - ✅ Arrays
 - ✅ Matrizes
+
+### 🟡 Intermediário
 - 🔃 POO
+- 🔃 ASP.NET
