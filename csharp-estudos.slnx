@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Estudo ASP.NET/">
+    <Project Path="Estudo ASPNET/HelloWorld/HelloWorld.csproj" />
+    <Project Path="Estudo ASPNET/RazorPagesMovie/RazorPagesMovie.csproj" Id="994f3c85-8a22-47e5-b75b-5bdd505ee923" />
+  </Folder>
   <Folder Name="/Semana 1/">
     <Project Path="Semana 1/Conversao/Conversao.csproj" Id="5730b5c1-949f-4ded-b9f7-44ce0f0639d9" />
     <Project Path="Semana 1/EntradaSaida/EntradaSaida.csproj" Id="1544e09c-4e1c-43b8-af97-d53120902e19" />
